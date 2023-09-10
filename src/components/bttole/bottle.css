@@ -1,0 +1,9 @@
+.bottle-box{
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid lightskyblue;
+}
+
+.bottle-box img{
+    width: 50%;
+}
